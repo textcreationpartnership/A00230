@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be inquired of, in the first Metropoliticall Visitation, of the most Reuerend Father: Ri
+
 1. THE Tenor of the Oath, to be ministred to the Church wardens & Swornemen.
 
 #####Body#####
