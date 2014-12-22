@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be inquired of, in the first metropoliticall visitation, of the most reuerend father, Ri
+Articles to be inquired of, in the first Metropoliticall Visitation, of the most Reuerend Father: Ri
+1. THE Tenor of the Oath, to be ministred to the Church wardens & Swornemen.
+
 #####Body#####
-Articles to be inquired of, in the first metropoliticall visitation, of the most reuerend father, Ri
+
+1. ❧ ARTICLES To be inquired of, by the Churchwardens and sworne men: in the Visitation of the Lorde Archbushop of Canterbury: within the Diocesse of Norwich. Anno Dom. 1605.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
